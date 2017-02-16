@@ -1,0 +1,19 @@
+current directory: /Users/fitram/Project/rails/complete-ROR-course/finance-tracker/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+/Users/fitram/.rbenv/versions/2.4.0/bin/ruby -r ./siteconf20170216-14672-5wjloh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/fitram/Project/rails/complete-ROR-course/finance-tracker/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/fitram/Project/rails/complete-ROR-course/finance-tracker/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/fitram/Project/rails/complete-ROR-course/finance-tracker/vendor/bundle/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20170216-14672-6hfe8v/byebug
